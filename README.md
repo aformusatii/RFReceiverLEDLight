@@ -1,0 +1,1 @@
+Simple LED controller using RF module NRF24L01+, part of IoT work stream (Smart Home). Currently works in pair with remove PIR detector [RFTransmitterPIRSensor](https://github.com/aformusatii/RFTransmitterPIRSensor).
